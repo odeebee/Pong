@@ -1,0 +1,10 @@
+D:\PongProg\Pong\Pong\bin\Debug\Pong.exe.config
+D:\PongProg\Pong\Pong\bin\Debug\Pong.exe
+D:\PongProg\Pong\Pong\bin\Debug\Pong.pdb
+D:\PongProg\Pong\Pong\obj\Debug\Pong.Form1.resources
+D:\PongProg\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\PongProg\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+D:\PongProg\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\PongProg\Pong\Pong\obj\Debug\Pong.exe
+D:\PongProg\Pong\Pong\obj\Debug\Pong.pdb
+D:\PongProg\Pong\Pong\obj\Debug\Pong.csprojAssemblyReference.cache
